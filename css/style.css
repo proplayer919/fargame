@@ -14,9 +14,9 @@ div {
     margin: 0px;
     padding: 0px;
     font-size: 20px;
-    border-color: rgb(163, 163, 163);
+    border-color: rgba(163, 163, 163, 0.427);
     border-style: solid;
-    border-width: 3px;
+    border-width: 1px;
     margin-top: 20px;
     border-radius: 4px;
 }
