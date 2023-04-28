@@ -37,9 +37,9 @@ html {
     overflow-y: scroll;
 }
 
-p {
+p, h1, h2, h3, h4, h5, h6 {
     color: rgb(163, 163, 163);
-    margin: 0px;
+    margin: 2px;
     padding: 0px;
 }
 
